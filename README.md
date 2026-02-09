@@ -36,13 +36,13 @@ The foundation of every insight—clean, structured, and meaningful data.
 
 ### 👁️ Computer Vision & Innovation
 * **[Facial Recognition Implementation](https://github.com/LAguirr/DataScience/blob/main/facialrecognition.py):** Python-based CV application.
-* **AI Explainability:** Researching XAI frameworks (like CRAFT) to make high-stakes models transparent and trustworthy.
+* **AI Explainability:** Researching XAI frameworks (NS-CL,DeepProbLog, Logic Tensor Networks)  to make high-stakes models transparent and trustworthy.
 
 ---
 
 ## 📈 Recent Technical Milestones
 * **Hardware Optimization:** Successfully optimized and ran the **Phi-4-reasoning-plus-onnx** model on 12-core CPU architectures.
-* **Web Development:** Currently building a modern enterprise portal using **Astro and Cloudflare Pages** to showcase data-driven services.
+* **Web Development:** Currently building a modern enterprise portal using 3d models.
 
 ---
 
